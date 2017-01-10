@@ -1,0 +1,14 @@
+source "https://github.com/guotong314/podSpec.git"
+source "https://github.com/CocoaPods/Specs.git"
+
+target 'GTUser_Example' do
+#  pod 'GTUser', :path => '../'
+
+  pod 'GTSpec'
+  
+  target 'GTUser_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

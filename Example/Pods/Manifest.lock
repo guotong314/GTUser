@@ -1,0 +1,15 @@
+PODS:
+  - GTSpec (0.7.1):
+    - KLSwitch (~> 1.5)
+  - KLSwitch (1.5)
+
+DEPENDENCIES:
+  - GTSpec
+
+SPEC CHECKSUMS:
+  GTSpec: 14fc8ff91ea9b9c450f42cbddfd4d767c3baf15c
+  KLSwitch: ff8b9953b9e15e16cb53efec7370a44ae02f8a6c
+
+PODFILE CHECKSUM: 87c680c6240508dcf50db504ddfbef1f97e1b7c8
+
+COCOAPODS: 1.1.1

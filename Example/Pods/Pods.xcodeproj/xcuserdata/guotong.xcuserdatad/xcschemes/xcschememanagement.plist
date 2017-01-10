@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GTSpec.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>KLSwitch.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GTUser_Example.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-GTUser_Tests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4D7EB5422B4AB8A67C999722ABF22ADE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F4A28FE144B9175B7F37DD8139D0CAB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8B2CFD6D94EB58F7554DA7728BAACBB9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>9228D025A1C30A973D7F90C4AEFDC062</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

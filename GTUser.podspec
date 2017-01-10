@@ -21,16 +21,16 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/<GITHUB_USERNAME>/GTUser'
+  s.homepage         = 'https://github.com/guotong314/GTUser'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '郭通' => 'guotong314@gmail.com' }
-  s.source           = { :git => 'https://github.com/<GITHUB_USERNAME>/GTUser.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/guotong314/GTUser.git', :tag => s.version }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '7.0'
 
-  s.source_files = 'GTUser/Classes/**/*'
+  s.source_files = 'Example/GTUser/Classes/**/*'
   
   # s.resource_bundles = {
   #   'GTUser' => ['GTUser/Assets/*.png']
@@ -39,4 +39,6 @@ TODO: Add long description of the pod here.
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
+
+    s.dependency 'GTSpec'
 end
